@@ -4,6 +4,12 @@
 
 https://rustup.rs/
 
+You should consider installing the Rust linter Clippy, adn depending on your editor capabilities, RustFormat:
+
+    rustup component add clippy-preview
+    rustup component add rustfmt-preview
+
+
 ## local books and docs
 
 The Rust books, the full docs standard library as well as a few more reousrces are installed as part of the toolcahin. Once installed, run:
