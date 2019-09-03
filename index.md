@@ -12,7 +12,7 @@ We are currently looking for a location for an evening meeting
 
 ### Presentations
 
-Contact [Yves](https://yves.zioup.com) if you want to do a presentation. Ideas:
+Contact [Yves](https://yves.zioup.com) or start a discussion on the Meetup if you want to do a presentation. Ideas:
 
 * conference report (one in planning for end of September)
 * People using Rust in production today

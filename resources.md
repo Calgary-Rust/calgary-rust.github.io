@@ -1,17 +1,17 @@
 # Resources
 
-== Installing the toolchain
+## Installing the toolchain
 
 https://rustup.rs/
 
-== local books and docs
+## local books and docs
 
 The Rust books, the full docs standard library as well as a few more reousrces are installed as part of the toolcahin. Once installed, run:
 
 * `rustup docs` - opens a browser with links to locally installed docs, books etc...
 * `rustup docs --path` - shows the path to the doccs on your local disk - useful in case you cannot open a browser from your session (eg: running rustup in WSL)
 
-== Online docs
+## Online docs
 
 * [The Rust book](https://doc.rust-lang.org/book/)
 
@@ -21,7 +21,7 @@ The Rust books, the full docs standard library as well as a few more reousrces a
 
 * [Learning Rust](https://learning-rust.github.io/)
 
-== Other resources to learn
+## Other resources to learn
 
 * [Rust Bridge brief intro to Rust](https://intro.rustbridge.com/en/intro/#1): This is a very good first few step hands on intro to the Rust programming language.
 
@@ -29,7 +29,7 @@ The Rust books, the full docs standard library as well as a few more reousrces a
 
 * (exercism.io): Site with exercises to learn different programming languages. This can be slow as you need a mentor to review your code, but useful if you need somebody to help and give you feedback.
 
-== Discord servers
+## Discord servers
 
 Lots of channels based on topics, including "beginners":
 
