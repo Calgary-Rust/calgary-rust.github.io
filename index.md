@@ -2,7 +2,7 @@
 
 ## Meetings
 
-[Calgary Rust Meetup]("https://www.meetup.com/Calgary-Rust")
+[Calgary Rust Meetup](https://www.meetup.com/Calgary-Rust)
 
 ### mini-hackathons
 
