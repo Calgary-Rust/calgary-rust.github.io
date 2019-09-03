@@ -1,5 +1,7 @@
 # Calgary Rust
 
+![Calgary Rust](images/Calgary-Rust-001-355x200.png "Calgary Rust")
+
 ## Meetings
 
 [Calgary Rust Meetup](https://www.meetup.com/Calgary-Rust)
