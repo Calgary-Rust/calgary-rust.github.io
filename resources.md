@@ -4,7 +4,7 @@
 
 https://rustup.rs/
 
-You should consider installing the Rust linter Clippy, adn depending on your editor capabilities, RustFormat:
+You should consider installing the Rust linter Clippy, and depending on your editor capabilities, RustFormat:
 
     rustup component add clippy-preview
     rustup component add rustfmt-preview
