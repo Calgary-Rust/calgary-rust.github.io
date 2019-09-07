@@ -1,5 +1,6 @@
 # Resources
 
+
 ## Installing the toolchain
 
 https://rustup.rs/
@@ -17,6 +18,7 @@ The Rust books, the full docs standard library as well as a few more reousrces a
 * `rustup docs` - opens a browser with links to locally installed docs, books etc...
 * `rustup docs --path` - shows the path to the doccs on your local disk - useful in case you cannot open a browser from your session (eg: running rustup in WSL)
 
+
 ## Online docs
 
 * [The Rust book](https://doc.rust-lang.org/book/)
@@ -27,6 +29,7 @@ The Rust books, the full docs standard library as well as a few more reousrces a
 
 * [Learning Rust](https://learning-rust.github.io/)
 
+
 ## Other resources to learn
 
 * [Rust Bridge brief intro to Rust](https://intro.rustbridge.com/en/intro/#1): This is a very good first few step hands on intro to the Rust programming language.
@@ -34,6 +37,7 @@ The Rust books, the full docs standard library as well as a few more reousrces a
 * [Rustlins](https://github.com/rust-lang/rustlings): Once install locally, it takes you through exercises, giving you code with bugs that you need to fix so they compile
 
 * (exercism.io): Site with exercises to learn different programming languages. This can be slow as you need a mentor to review your code, but useful if you need somebody to help and give you feedback.
+
 
 ## Discord servers
 
@@ -43,4 +47,10 @@ Lots of channels based on topics, including "beginners":
 
 * [Community Rust language discord server](https://discord.gg/aVESxV8)
 
+## Are we yet?
+There are a few "areweXXXyet.org" sites which try to capture current most popular solutions available for a given problem.
+They are a good starting point if you want to explore a particular subject with Rust.
+They are also typically hosted on github and accepting Pull Requests.
+
+There is a Mozilla wiki page which maintains a list of areweyet sites: https://wiki.mozilla.org/Areweyet
 
