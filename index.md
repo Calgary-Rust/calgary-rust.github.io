@@ -8,9 +8,9 @@
 
 ### mini-hackathons
 
-* Tuesdays, noon to 13:00 at the Central Library - see the meetup group for anouncement
+* every other Tuesdays, noon to 13:00 at the Central Library - see the meetup group for anouncement
 
-We are currently looking for a location for an evening meeting
+We are currently looking for a location for evening meetings (suggestions welcomed).
 
 ### Presentations
 
