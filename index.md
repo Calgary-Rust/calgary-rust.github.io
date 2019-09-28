@@ -22,5 +22,5 @@ Contact [Yves](https://yves.zioup.com) or start a discussion on the Meetup if yo
 
 ## Resources
 
-Check the [resource page](resources.md) for links to learn Rust, discord servers etc...
+Check the [resource page](resources.md) for links to install and learn Rust, discord servers, practice sites and software.
 
