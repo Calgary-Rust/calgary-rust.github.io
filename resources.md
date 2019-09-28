@@ -3,7 +3,7 @@
 
 ## Installing the toolchain
 
-[](https://rustup.rs/)
+[https://rustup.rs/](https://rustup.rs/)
 
 You should consider installing the Rust linter Clippy, and depending on your editor capabilities, RustFormat:
 
@@ -56,5 +56,5 @@ There are a few "areweXXXyet.org" sites which try to capture current most popula
 They are a good starting point if you want to explore a particular subject with Rust.
 They are also typically hosted on github and accepting Pull Requests.
 
-There is a Mozilla wiki page which maintains a list of areweyet sites: [](https://wiki.mozilla.org/Areweyet)
+There is a Mozilla wiki page which maintains a list of areweyet sites: [https://wiki.mozilla.org/Areweyet](https://wiki.mozilla.org/Areweyet)
 
