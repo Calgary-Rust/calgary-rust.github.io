@@ -7,14 +7,14 @@ https://pages.github.com
 
 https://pages.github.com
 
-## With empty square brackets
+## Angle brackets
 This one too:
 ```
-[](https://pages.github.com)
+<https://pages.github.com>
 ```
 
 Under this line.  
-[](https://pages.github.com)
+<https://pages.github.com>
 Above this line.  
 
 ## What it takes
