@@ -6,21 +6,23 @@
 
 [Calgary Rust Meetup](https://www.meetup.com/Calgary-Rust)
 
-### mini-hackathons
+### Mini-Hackathons
 
-* every other Tuesdays, noon to 13:00 at the Central Library - see the meetup group for anouncement
+* Every other Tuesday, noon to 13:00 at the Central Library - see the meetup group for announcements.
 
-We are currently looking for a location for evening meetings (suggestions welcomed).
+We are currently looking for a location for evening meetings (suggestions welcomed.)
 
 ### Presentations
 
-Contact [Yves](https://yves.zioup.com) or start a discussion on the Meetup if you want to do a presentation. Ideas:
+Contact [Yves](https://yves.zioup.com) or start a discussion on the Meetup if you want to do a presentation.
 
-* conference report (one in planning for end of September)
+Ideas:
+
+* Conference report (one in planning for end of September)
 * People using Rust in production today
 * experience on a large-ish Rust Open Source project
 
 ## Resources
 
-Check the [resource page](resources.md) for links to install and learn Rust, discord servers, practice sites and software.
+Check the [resource page](resources.md) for links to install and learn Rust, Discord servers, practice sites, and software.
 
