@@ -2,19 +2,21 @@
 
 ![Calgary Rust](images/Calgary-Rust-001-355x200.png "Calgary Rust")
 
+## Discord server
+
+Join the discussions on the [Calgary-Rust discord server](https://discord.gg/rTUEWr89).
+
 ## Meetings
 
-[Calgary Rust Meetup](https://www.meetup.com/Calgary-Rust)
+Check "Upcoming Events" on [Rust Calgary eventbrite](https://www.eventbrite.ca/o/rust-calgary-63449860593).
 
 ### mini-hackathons
 
-* every other Tuesdays, noon to 13:00 at the Central Library - see the meetup group for anouncement
-
-We are currently looking for a location for evening meetings (suggestions welcomed).
+This is not happening currently. The idea is short lunchtime meetings to present projects we're working on, help each other with questions, etc...
 
 ### Presentations
 
-Contact [Yves](https://yves.zioup.com) or start a discussion on the Meetup if you want to do a presentation. Ideas:
+Join the [discord server](# Discord server) if you want to do discuss a presentation. Ideas:
 
 * conference report (one in planning for end of September)
 * People using Rust in production today
