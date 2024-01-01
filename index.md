@@ -4,7 +4,7 @@
 
 ## Discord server
 
-Join the discussions on the [Calgary-Rust discord server](https://discord.gg/rTUEWr89).
+Join the discussions on the [Calgary-Rust discord server](https://discord.gg/UaGxtsGWpu).
 
 ## Meetings
 
