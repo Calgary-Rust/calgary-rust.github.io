@@ -16,7 +16,7 @@ We are planning a two-day hackathon on January 27-28, 2024. To learn more about 
 
 ### Presentations
 
-Join the [Discord server](# Discord server) if you want to do discuss a presentation. Ideas:
+Join the [Discord server](# Discord server) if you want to prepare or discuss a presentation. Ideas:
 
 * Conference report
 * People using Rust in production today
