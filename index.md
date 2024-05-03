@@ -12,7 +12,7 @@ Check "Upcoming Events" on [Calgary Rust Meetup group](https://www.meetup.com/ca
 
 ### Hackathons
 
-We are planning a two-day hackathon on January 27-28, 2024. To learn more about the hackathon see [Harnessing Rust for Real-World Problems hackathon.md](https://github.com/JohnScience/rust-hackathon-2024-01-27) on GitHub or the Meetup event announcements for [Day 1](https://www.meetup.com/calgary-rust/events/298452155/) and [Day 2](https://www.meetup.com/calgary-rust/events/298452254/).
+The last hackathon was a two-day hackathon that took place on January 27-28, 2024. To learn more about the hackathon see [Harnessing Rust for Real-World Problems hackathon.md](https://github.com/JohnScience/rust-hackathon-2024-01-27) on GitHub or the Meetup event announcements for [Day 1](https://www.meetup.com/calgary-rust/events/298452155/) and [Day 2](https://www.meetup.com/calgary-rust/events/298452254/).
 
 ### Presentations
 
